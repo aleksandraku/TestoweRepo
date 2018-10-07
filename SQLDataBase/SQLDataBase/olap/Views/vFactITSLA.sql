@@ -1,4 +1,7 @@
-﻿CREATE VIEW [olap].[vFactITSLA]
+﻿
+---------------------------------------------------------------------
+
+		CREATE VIEW [olap].[vFactITSLA]
 		AS
 		SELECT 
 			[ITSLAkey]

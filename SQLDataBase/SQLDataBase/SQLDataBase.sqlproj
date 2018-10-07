@@ -99,7 +99,6 @@
     <Build Include="dbo\Views\V_Customer.sql" />
     <Build Include="olap\Views\vDimOutage.sql" />
     <Build Include="olap\Views\vDimMachine.sql" />
-    <Build Include="olap\Views\vDimStore.sql" />
     <Build Include="olap\Views\vDimDate.sql" />
     <Build Include="olap\Views\vFactITSLA.sql" />
     <Build Include="dbo\Stored Procedures\P_FactStrategyPlan.sql" />
